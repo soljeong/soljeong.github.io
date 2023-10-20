@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0139c0688001cad8",
+        "id": "800a5d36c319274e",
         "type": "tabs",
         "children": [
           {
-            "id": "e93ea74397582aef",
+            "id": "a616e573617de53a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-10-11-blog.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-11-blog.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-11-blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-10-11-blog.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,11 +138,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e93ea74397582aef",
+  "active": "a616e573617de53a",
   "lastOpenFiles": [
-    "2023-10-12-타이타닉 데이터셋 컴페티션.md",
-    "2023-10-01-개발환경.md",
     "2023-10-11-blog.md",
+    "2023-10-01-개발환경.md",
+    "2023-10-09-pandas.md",
+    "note/2023-10-10-day7.md",
+    "2023-10-12-타이타닉 데이터셋 컴페티션.md",
     "2023-10-16-week_4.md",
     "attachments/Pasted image 20231018184147.png",
     "attachments/1.5.3.0.svg",
@@ -173,8 +167,6 @@
     "2023-10-13-day10 1.md",
     "2023-10-12-day9 1.md",
     "Pasted image 20231004104045.png.md",
-    "note/2023-10-10-day7.md",
-    "2023-10-09-pandas.md",
     "그냥만든마크다운은안올라가겠지.md"
   ]
 }
