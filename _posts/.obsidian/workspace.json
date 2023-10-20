@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "2eccec7edc6d6d7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0139c0688001cad8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e93ea74397582aef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-11-blog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "490552c3bd171c72",
+    "type": "split",
+    "children": [
+      {
+        "id": "86809fd64c5c3910",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08cb6026c10dcf6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0956470b5f601026",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2eaa2225c9bd04b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3b62556509262f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "96a2cd2accfa068b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b59a4cab18f78db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-10-11-blog.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3138c82324d93903",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-10-11-blog.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d03e1ab0ad86e9f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3fd295328d28db35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-10-11-blog.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "e93ea74397582aef",
+  "lastOpenFiles": [
+    "2023-10-12-타이타닉 데이터셋 컴페티션.md",
+    "2023-10-01-개발환경.md",
+    "2023-10-11-blog.md",
+    "2023-10-16-week_4.md",
+    "attachments/Pasted image 20231018184147.png",
+    "attachments/1.5.3.0.svg",
+    "attachments/1.5.2.0.svg",
+    "attachments/1.5.2.1.svg",
+    "attachments",
+    "output.svg",
+    "note/day13.ipynb",
+    "day 13 4. 앙상블.ipynb",
+    "4. 앙상블.ipynb",
+    "note/day12 3. 분류 모델.ipynb",
+    "day12 3. 분류 모델.ipynb",
+    "DE_28_auc_score_&_hitmap.ipynb",
+    "juuwan_titanic_v3_ipynb의_사본의_사본 (2).ipynb",
+    "국민대.md",
+    "국민대.d2",
+    "note/day12.ipynb",
+    "2023-10-13-day10.md",
+    "2023-10-12-day9.md",
+    "2023-10-13-day10 1.md",
+    "2023-10-12-day9 1.md",
+    "Pasted image 20231004104045.png.md",
+    "note/2023-10-10-day7.md",
+    "2023-10-09-pandas.md",
+    "그냥만든마크다운은안올라가겠지.md"
+  ]
+}
