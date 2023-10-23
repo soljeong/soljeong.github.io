@@ -131,8 +131,7 @@ collections:
   tabs:
     output: true
     sort_by: order
-  posts
-    sort_by: date_reverse # 이게 될지 모르겠네
+
 
 defaults:
   - scope:
