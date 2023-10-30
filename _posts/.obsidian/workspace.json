@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "483f45cc4ed4d743",
+        "id": "a85a7649c2f346c8",
         "type": "tabs",
         "children": [
           {
-            "id": "0d2ecfd7e9074ede",
+            "id": "ced2935367ba8c37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-30.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-10-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-10-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-10-30.md"
+              }
             }
           }
         ],
@@ -135,41 +143,53 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d2ecfd7e9074ede",
+  "active": "ced2935367ba8c37",
   "lastOpenFiles": [
-    "2023-10-25-배구스케줄.md",
+    "day21 1. CNN and Data Augmentation.ipynb",
+    "day 21 1. CNN and Data Augmentation.ipynb",
+    "1. CNN and Data Augmentation.ipynb",
+    "note/deep learning",
+    "deep learning",
+    "obsidian.md",
+    "2023-10-30.md",
+    "obsidian metadata.md",
+    "unicode fullwidth halfwidth.md",
+    "attachments/Pasted image 20231026174232.png",
+    "무제 파일 1.md",
+    "2023-10-26.md",
+    "국민대.md",
+    "상관계수 히트맵.md",
+    "2023-10-26-Excalidraw.md",
     "2023-10-23-week_5.md",
+    "template/post-template.md",
+    "국민대 table.md",
+    "2023-10-25-배구스케줄.md",
     "2023-10-25-day18.md",
     "2023-10-01-개발환경.md",
+    "attachments/1.5.3.0.svg",
+    "attachments/Pasted image 20231018184147.png",
+    "Excalidraw/Drawing 2023-10-26 12.31.11.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-26 12.32.25.excalidraw.md",
+    "note/2023-10-10-day7.md",
+    "그냥만든마크다운은안올라가겠지.md",
+    "2023-10-16-week_4.md",
+    "2023-10-13-day10.md",
+    "2023-10-12-day9.md",
+    "2023-10-12-타이타닉 데이터셋 컴페티션.md",
     "2023-10-11-blog.md",
     "2023-10-09-pandas.md",
-    "note/2023-10-10-day7.md",
-    "2023-10-12-타이타닉 데이터셋 컴페티션.md",
-    "2023-10-16-week_4.md",
-    "attachments/Pasted image 20231018184147.png",
-    "attachments/1.5.3.0.svg",
+    "template",
+    "Excalidraw",
     "attachments/1.5.2.0.svg",
     "attachments/1.5.2.1.svg",
     "attachments",
     "output.svg",
     "note/day13.ipynb",
     "day 13 4. 앙상블.ipynb",
-    "4. 앙상블.ipynb",
-    "note/day12 3. 분류 모델.ipynb",
-    "day12 3. 분류 모델.ipynb",
-    "DE_28_auc_score_&_hitmap.ipynb",
-    "juuwan_titanic_v3_ipynb의_사본의_사본 (2).ipynb",
-    "국민대.md",
-    "국민대.d2",
-    "note/day12.ipynb",
-    "2023-10-13-day10.md",
-    "2023-10-12-day9.md",
-    "2023-10-13-day10 1.md",
-    "2023-10-12-day9 1.md",
-    "Pasted image 20231004104045.png.md",
-    "그냥만든마크다운은안올라가겠지.md"
+    "4. 앙상블.ipynb"
   ]
 }
