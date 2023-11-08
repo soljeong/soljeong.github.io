@@ -14,5 +14,13 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }

@@ -1,5 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
   "d2-obsidian",
-  "dataview"
+  "dataview",
+  "obsidian-advanced-uri",
+  "obsidian-checklist-plugin"
 ]
