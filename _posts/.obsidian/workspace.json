@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "76e8bd6a486dfcd4",
+        "id": "073686c6f6be10be",
         "type": "tabs",
         "children": [
           {
-            "id": "16c85982ebd70bd2",
+            "id": "64c6e436b4ea0cdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-11-14.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-11-14.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,7 +153,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "16c85982ebd70bd2",
+  "active": "64c6e436b4ea0cdd",
   "lastOpenFiles": [
     "2023-11-14.md",
     "제주도.md",
