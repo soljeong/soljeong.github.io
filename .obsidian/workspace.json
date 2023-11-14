@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cae6a9e704fd2590",
+        "id": "99de91c1fedfd70a",
         "type": "tabs",
         "children": [
           {
-            "id": "efd8899127f7d165",
+            "id": "4ea625bb70d370ae",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,5 +139,7 @@
     }
   },
   "active": "83a4304b40f332bf",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "새 파일.md"
+  ]
 }
