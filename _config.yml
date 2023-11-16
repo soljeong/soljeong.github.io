@@ -14,16 +14,16 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 일지 # the main title
+title: Chirpy # the main title
 
-tagline: 뭘 하고 사는지 모르겠다 # it will display as the sub-title
+tagline: A text-focused Jekyll theme # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  착하게 살자
+  A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: 'https://soljeong.github.io'
+url: ""
 
 github:
   username: soljeong # change to your github username
@@ -38,7 +38,7 @@ social:
   email: jeongsol@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/username # change to your twitter homepage
     - https://github.com/soljeong # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username

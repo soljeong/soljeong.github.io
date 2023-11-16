@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ffe84fc06e2321c9",
+        "id": "77350ba86aa229ad",
         "type": "tabs",
         "children": [
           {
-            "id": "44009c39a8cde88a",
+            "id": "c2a49e68189814ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-16-day34.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-11-16-day34.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-11-16-day34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-11-16-day34.md"
+              }
             }
           }
         ],
@@ -153,8 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44009c39a8cde88a",
+  "active": "c2a49e68189814ef",
   "lastOpenFiles": [
+    "2023-11-16.md",
+    "방언.md",
     "2023-11-16-day34.md",
     "2023-10-01-개발환경.md",
     "attachments/Pasted image 20231116141918.png",
@@ -188,7 +198,6 @@
     "note/day21 1. CNN and Data Augmentation.ipynb",
     "5. Transformer.ipynb",
     "챗봇.md",
-    "clip/21. Recommender Systems — Dive into Deep Learning 1.0.3 documentation.md",
     "clip",
     "data/pizza_steak_sushi/train/pizza/702165.jpg",
     "data/pizza_steak_sushi/train/pizza/1033251.jpg",
