@@ -9,3 +9,13 @@ git config --get credential.helper
 - [Git - Credential 저장소 (git-scm.com)](https://git-scm.com/book/ko/v2/Git-%EB%8F%84%EA%B5%AC-Credential-%EC%A0%80%EC%9E%A5%EC%86%8C)
 
 ## 모르겠어
+
+
+# 깃
+- 삭제했다가 다시 설치?
+- git credential manager 여기가 문제인데 엉뚱한걸 재설치했나? 아니면 포함되어있나?
+- 재설치 괜히했어 젠장
+- [windows - Remove credentials from Git - Stack Overflow](https://stackoverflow.com/questions/15381198/remove-credentials-from-git)
+- 헐 윈도우에 저장되어 있는거였나?
+> 성공
+

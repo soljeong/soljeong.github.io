@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "073686c6f6be10be",
+        "id": "ffe84fc06e2321c9",
         "type": "tabs",
         "children": [
           {
-            "id": "64c6e436b4ea0cdd",
+            "id": "44009c39a8cde88a",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "9ea2872507ff7c33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eye",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-11-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-11-16.md"
+              }
             }
           }
         ],
@@ -153,20 +170,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "64c6e436b4ea0cdd",
+  "active": "9ea2872507ff7c33",
   "lastOpenFiles": [
-    "2023-11-14.md",
-    "제주도.md",
+    "attachments/Pasted image 20231116141918.png",
+    "attachments/Pasted image 20231116141712.png",
+    "autogluon.md",
+    "2023-11-16.md",
     "국민대.md",
+    "2023-11-06.md",
+    "2023-10-09-pandas.md",
+    "2023-11-01.md",
+    "obsidian.md",
+    "국민대 table.md",
+    "2023-11-14.md",
+    "git push 매 번 계정 물어보는 이유.md",
+    "제주도.md",
     "2023-10-26.md",
     "2023-11-13.md",
     "2023-10-30.md",
     "2023-10-26-Excalidraw.md",
     "2023-10-31.md",
-    "2023-11-01.md",
     "2023-11-02.md",
     "2023-11-03.md",
-    "2023-11-06.md",
     "2023-11-07.md",
     "2023-11-08.md",
     "2023-11-10.md",
@@ -181,13 +206,6 @@
     "챗봇.md",
     "2023-10-01-개발환경.md",
     "clip/21. Recommender Systems — Dive into Deep Learning 1.0.3 documentation.md",
-    "git push 매 번 계정 물어보는 이유.md",
-    "방언.md",
-    "mf.md",
-    "deep learning.md",
-    "국민대 table.md",
-    "무제 파일 3.md",
-    "무제 파일 2.md",
     "clip",
     "data/pizza_steak_sushi/train/pizza/702165.jpg",
     "data/pizza_steak_sushi/train/pizza/1033251.jpg",
@@ -197,7 +215,6 @@
     "data/pizza_steak_sushi/test/pizza/971934.jpg",
     "data/pizza_steak_sushi/test/pizza/930553.jpg",
     "data/pizza_steak_sushi/test/pizza/714866.jpg",
-    "data/pizza_steak_sushi/test/pizza/648055.jpg",
     "day21 두번째1. CNN and Data Augmentation.ipynb",
     "data/pizza_steak_sushi/train/sushi",
     "data/pizza_steak_sushi/train/steak"
