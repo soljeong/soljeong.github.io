@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "9ea2872507ff7c33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-11-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-11-16.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -170,12 +153,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ea2872507ff7c33",
+  "active": "44009c39a8cde88a",
   "lastOpenFiles": [
+    "2023-11-16-day34.md",
+    "2023-10-01-개발환경.md",
     "attachments/Pasted image 20231116141918.png",
     "attachments/Pasted image 20231116141712.png",
     "autogluon.md",
-    "2023-11-16.md",
     "국민대.md",
     "2023-11-06.md",
     "2023-10-09-pandas.md",
@@ -204,7 +188,6 @@
     "note/day21 1. CNN and Data Augmentation.ipynb",
     "5. Transformer.ipynb",
     "챗봇.md",
-    "2023-10-01-개발환경.md",
     "clip/21. Recommender Systems — Dive into Deep Learning 1.0.3 documentation.md",
     "clip",
     "data/pizza_steak_sushi/train/pizza/702165.jpg",
@@ -214,7 +197,6 @@
     "data/pizza_steak_sushi/test/sushi/3177743.jpg",
     "data/pizza_steak_sushi/test/pizza/971934.jpg",
     "data/pizza_steak_sushi/test/pizza/930553.jpg",
-    "data/pizza_steak_sushi/test/pizza/714866.jpg",
     "day21 두번째1. CNN and Data Augmentation.ipynb",
     "data/pizza_steak_sushi/train/sushi",
     "data/pizza_steak_sushi/train/steak"
