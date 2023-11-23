@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fbbff8aab17729d4",
+        "id": "491e3373a44ee09a",
         "type": "tabs",
         "children": [
           {
-            "id": "cb2f4394c07ad70c",
+            "id": "43acde53572e65e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-11-22.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-11-22.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,9 +153,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb2f4394c07ad70c",
+  "active": "43acde53572e65e2",
   "lastOpenFiles": [
+    "2023-11-23-싱글톤.md",
+    "2023-11-23.md",
+    "무제 파일 4.md",
+    "무제 파일 5.md",
+    "2023-10-09-pandas.md",
     "2023-11-22.md",
+    "attachments/Pasted image 20231123091443.png",
     "2023-11-21.md",
     "2023-10-16-week_4.md",
     "2023-10-01-개발환경.md",
@@ -184,13 +182,8 @@
     "2023-11-07.md",
     "2023-11-08.md",
     "2023-11-10.md",
-    "2023-11-14.md",
-    "2023-11-16.md",
-    "방언.md",
     "attachments/Pasted image 20231116141918.png",
     "attachments/Pasted image 20231116141712.png",
-    "autogluon.md",
-    "2023-10-09-pandas.md",
     "attachments/Pasted image 20231110121733.png",
     "note/day27 4-2.Seq2Seq and Attention of 번역.ipynb",
     "note/day27 4-1. Seq2Seq  of 번역.ipynb",
@@ -205,7 +198,6 @@
     "data/pizza_steak_sushi/train/pizza/928670.jpg",
     "data/pizza_steak_sushi/test/sushi/3177743.jpg",
     "data/pizza_steak_sushi/test/pizza/971934.jpg",
-    "data/pizza_steak_sushi/test/pizza/930553.jpg",
     "day21 두번째1. CNN and Data Augmentation.ipynb",
     "data/pizza_steak_sushi/train/sushi",
     "data/pizza_steak_sushi/train/steak"
