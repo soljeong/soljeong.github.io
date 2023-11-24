@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "491e3373a44ee09a",
+        "id": "ece5f4fb4c6ed975",
         "type": "tabs",
         "children": [
           {
-            "id": "43acde53572e65e2",
+            "id": "76216625f079abb8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -153,9 +153,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43acde53572e65e2",
+  "active": "76216625f079abb8",
   "lastOpenFiles": [
     "2023-11-23-싱글톤.md",
+    "2023-11-16-day34.md",
+    "2023-11-24.md",
+    "git.md",
+    "git push 매 번 계정 물어보는 이유.md",
     "2023-11-23.md",
     "무제 파일 4.md",
     "무제 파일 5.md",
@@ -167,7 +171,6 @@
     "2023-10-01-개발환경.md",
     "2023-11-17.md",
     "clip/추천 시스템 Matrix factorization  네이버 블로그.md",
-    "2023-11-16-day34.md",
     "DDL.md",
     "clip/Numpy 파이썬 내적, 행렬곱 함수 np.dot() 사용법 총정리.md",
     "clip/Dataset과 DataLoader — 파이토치 한국어 튜토리얼 (PyTorch tutorials in Korean).md",
@@ -179,9 +182,6 @@
     "2023-11-02.md",
     "2023-11-03.md",
     "2023-11-06.md",
-    "2023-11-07.md",
-    "2023-11-08.md",
-    "2023-11-10.md",
     "attachments/Pasted image 20231116141918.png",
     "attachments/Pasted image 20231116141712.png",
     "attachments/Pasted image 20231110121733.png",
