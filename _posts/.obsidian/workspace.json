@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ece5f4fb4c6ed975",
+        "id": "e662aaaba6d24a19",
         "type": "tabs",
         "children": [
           {
-            "id": "76216625f079abb8",
+            "id": "1e7a79a666b5176b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -153,9 +153,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76216625f079abb8",
+  "active": "1e7a79a666b5176b",
   "lastOpenFiles": [
     "2023-11-23-싱글톤.md",
+    "2023-11-27.md",
     "2023-11-16-day34.md",
     "2023-11-24.md",
     "git.md",
@@ -181,7 +182,6 @@
     "[21. Recommender Systems — Dive into Deep Learning 1.0.3 documentation.md",
     "2023-11-02.md",
     "2023-11-03.md",
-    "2023-11-06.md",
     "attachments/Pasted image 20231116141918.png",
     "attachments/Pasted image 20231116141712.png",
     "attachments/Pasted image 20231110121733.png",
