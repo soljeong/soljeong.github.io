@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "e662aaaba6d24a19",
+        "id": "4cc4520ecdbf7d5d",
         "type": "tabs",
         "children": [
           {
-            "id": "1e7a79a666b5176b",
+            "id": "7dbf193d385537f3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "cfc1b65b3b15fa9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-12-08-blogproject.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "가상 환경",
+                "query": "curd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2023-12-08-blogproject.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2023-12-08-blogproject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2023-12-08-blogproject.md"
+              }
             }
           }
         ],
@@ -150,38 +173,46 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "1e7a79a666b5176b",
+  "active": "cfc1b65b3b15fa9f",
   "lastOpenFiles": [
-    "2023-11-23-싱글톤.md",
-    "2023-11-27.md",
-    "2023-11-16-day34.md",
-    "2023-11-24.md",
+    "daily/2023-12-07.md",
+    "daily/2023-12-08-blogproject.md",
+    "daily/attachments/Pasted image 20231207160105.png",
+    "daily/attachments",
+    "Spring.md",
+    "Home.md",
+    "attachments/Pasted image 20231205192226.png",
+    "HTML.md",
+    "daily/2023-12-04.md",
+    "daily/2023-11-30.md",
     "git.md",
+    "blog/2023-10-10-day7.md",
+    "unicode fullwidth halfwidth.md",
+    "blog/2023-11-16-day34.md",
+    "obsidian.md",
+    "obsidian metadata.md",
     "git push 매 번 계정 물어보는 이유.md",
-    "2023-11-23.md",
-    "무제 파일 4.md",
+    "daily/2023-11-17.md",
     "무제 파일 5.md",
-    "2023-10-09-pandas.md",
-    "2023-11-22.md",
+    "무제 파일 4.md",
+    "무제 파일 3.md",
+    "무제 파일 2.md",
+    "무제 파일 1.md",
+    "blog/2023-11-23-싱글톤.md",
+    "daily/2023-10-26.md",
+    "blog/2023-10-01-개발환경.md",
+    "blog",
+    "template/post-template.md",
+    "daily",
+    "daily/2023-12-01.md",
+    "attachments/Pasted image 20231201164242.png",
+    "attachments/Pasted image 20231130102321.png",
+    "2023-11-29.md",
     "attachments/Pasted image 20231123091443.png",
-    "2023-11-21.md",
-    "2023-10-16-week_4.md",
-    "2023-10-01-개발환경.md",
-    "2023-11-17.md",
-    "clip/추천 시스템 Matrix factorization  네이버 블로그.md",
-    "DDL.md",
-    "clip/Numpy 파이썬 내적, 행렬곱 함수 np.dot() 사용법 총정리.md",
-    "clip/Dataset과 DataLoader — 파이토치 한국어 튜토리얼 (PyTorch tutorials in Korean).md",
-    "clip/머신러닝 비지도학습 - One Class SVM - 로스카츠의 AI 머신러닝 1.md",
-    "clip/머신러닝 비지도학습 - One Class SVM - 로스카츠의 AI 머신러닝.md",
-    "clip/21. Recommender Systems — Dive into Deep Learning 1.0.3 documentation.md",
-    "국민대.md",
-    "[21. Recommender Systems — Dive into Deep Learning 1.0.3 documentation.md",
-    "2023-11-02.md",
-    "2023-11-03.md",
     "attachments/Pasted image 20231116141918.png",
     "attachments/Pasted image 20231116141712.png",
     "attachments/Pasted image 20231110121733.png",
@@ -193,13 +224,6 @@
     "5. Transformer.ipynb",
     "clip",
     "data/pizza_steak_sushi/train/pizza/702165.jpg",
-    "data/pizza_steak_sushi/train/pizza/1033251.jpg",
-    "data/pizza_steak_sushi/train/pizza/2760984.jpg",
-    "data/pizza_steak_sushi/train/pizza/928670.jpg",
-    "data/pizza_steak_sushi/test/sushi/3177743.jpg",
-    "data/pizza_steak_sushi/test/pizza/971934.jpg",
-    "day21 두번째1. CNN and Data Augmentation.ipynb",
-    "data/pizza_steak_sushi/train/sushi",
-    "data/pizza_steak_sushi/train/steak"
+    "data/pizza_steak_sushi/train/pizza/1033251.jpg"
   ]
 }
