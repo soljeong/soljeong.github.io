@@ -24,17 +24,91 @@
           {
             "id": "cfc1b65b3b15fa9f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "daily/2023-12-08-blogproject.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e91d4fe32d6a80e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-12-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6ebe8fd68a0dfb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "github Project 기능.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38da34cd54429b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "github Repository 부가기능.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16815939a6189f83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-12-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3354879c2414faa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-12-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "208e0195cac3a171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -63,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curd",
+                "query": "컨테이너",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "right": {
     "id": "d3b62556509262f7",
@@ -100,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-12-08-blogproject.md",
+                "file": "daily/2023-12-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-12-08-blogproject.md",
+                "file": "daily/2023-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-12-08-blogproject.md"
+                "file": "daily/2023-12-22.md"
               }
             }
           }
@@ -177,41 +252,41 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cfc1b65b3b15fa9f",
+  "active": "c3354879c2414faa",
   "lastOpenFiles": [
+    "daily/2023-12-21.md",
+    "daily/2023-12-22.md",
+    "clip/kkkkew]e - Google 검색.md",
     "daily/2023-12-07.md",
+    "docker.md",
+    "daily/2023-12-08.md",
+    "daily/2023-12-12.md",
+    "blog/2023-11-16-day34.md",
+    "Spring.md",
+    "blog/2023-10-01-개발환경.md",
+    "daily/2023-11-21.md",
+    "blog/2023-10-16-week_4.md",
+    "daily/2023-12-20.md",
+    "daily/2023-12-19.md",
+    "daily/2023-12-18.md",
+    "프로젝트 진척도 관리.md",
+    "git.md",
     "daily/2023-12-08-blogproject.md",
+    "github Project 기능.md",
+    "github Repository 부가기능.md",
+    "daily/2023-12-17.md",
+    "daily/2023-12-15.md",
+    "daily/2023-12-14.md",
+    "daily/2023-12-13.md",
+    "Home.md",
+    "DDL.md",
     "daily/attachments/Pasted image 20231207160105.png",
     "daily/attachments",
-    "Spring.md",
-    "Home.md",
     "attachments/Pasted image 20231205192226.png",
-    "HTML.md",
-    "daily/2023-12-04.md",
-    "daily/2023-11-30.md",
-    "git.md",
-    "blog/2023-10-10-day7.md",
-    "unicode fullwidth halfwidth.md",
-    "blog/2023-11-16-day34.md",
-    "obsidian.md",
-    "obsidian metadata.md",
-    "git push 매 번 계정 물어보는 이유.md",
-    "daily/2023-11-17.md",
-    "무제 파일 5.md",
-    "무제 파일 4.md",
-    "무제 파일 3.md",
-    "무제 파일 2.md",
-    "무제 파일 1.md",
-    "blog/2023-11-23-싱글톤.md",
-    "daily/2023-10-26.md",
-    "blog/2023-10-01-개발환경.md",
     "blog",
-    "template/post-template.md",
     "daily",
-    "daily/2023-12-01.md",
     "attachments/Pasted image 20231201164242.png",
     "attachments/Pasted image 20231130102321.png",
-    "2023-11-29.md",
     "attachments/Pasted image 20231123091443.png",
     "attachments/Pasted image 20231116141918.png",
     "attachments/Pasted image 20231116141712.png",

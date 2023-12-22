@@ -19,3 +19,25 @@ published: true
 - jpa
 - h2
 - dev container 사용
+## 데이터베이스
+- https://wikidocs.net/161164
+```d2
+Board :{
+shape : sql_table
+
+
+id: int {constraint: primary_key}  
+title
+content
+}
+```
+```d2
+Board : {
+shape : class
+
+-id
+-title
+-content
+-create_date
+}
+```

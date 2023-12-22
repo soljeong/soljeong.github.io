@@ -12,6 +12,7 @@
 - 뭐가 어떻게 된건지 솔직히 잘 모르겠다
 - 해당 브랜치의 가지를 잘라서 다른데 붙인다.
 - 타겟은 다른 커밋이 아니고 다른 브랜치
+- `git checkout main` 하고 `git rebase branch` 을 한꺼번에 : `git rebase branch main` 앞이 부모, 뒤가 자녀가 된다.
 
 
 If you work with multiple different identities on a single Git hosting service, you may be wondering if Git Credential Manager (GCM) supports this workflow. The answer is yes, with a bit of complexity due to how it interoperates with Git.
@@ -45,3 +46,22 @@ git config --get credential.helper
 # https://scoop.sh/
 - 윈도우용 패키지 매니저
 - winget 대신
+## 브랜치 강제로 옮기기
+https://learngitbranching.js.org/?locale=ko
+
+이제 여러분은 상대 참조의 전문가 입니다. 이제 이걸로 무언가를 해봅시다.
+
+제가 상대 참조를 사용하는 가장 일반적인 방법은 브랜치를 옮길 때 입니다. `-f` 옵션을 이용해서 브랜치를 특정 커밋에 직접적으로 재지정 할 수 있습니다. 이런 식으로 말이죠:
+
+`git branch -f main HEAD~3`
+
+(강제로) main 브랜치를 HEAD에서 세번 뒤로 옮겼습니다. (three parents behind HEAD).
+## pull
+fetch 로 remote와 local 동기화. local/main과 origin/main이 달라져 있을 수 있다. merge를 하게 됨. fetch와 merge를 묶은 명령이 pull
+- fetch + merge
+- fetch + rebase : git pull --rebase
+## push
+- 매개변수 upstream
+## reset
+- git reset 타겟
+- 지금 브랜치를 타겟 시점으로 되돌린다 
