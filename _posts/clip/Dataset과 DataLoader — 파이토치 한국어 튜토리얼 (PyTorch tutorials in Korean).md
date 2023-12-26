@@ -219,3 +219,44 @@ Label: 0
 ```
 
 ___
+
+
+# Python
+## pickle
+- 작업하고 있던 데이터 저장하기
+- 직렬화, 시리얼라이즈
+- 피클 저장
+- 스텐다드 라이브러리
+- df를 csv 로 저장하는것과는 다르다
+- df들의 딕셔너리를 통채로 저장하는것도 가능
+- 싸이킷런에서 학습이 종료된 모델을 저장할때도 피클 사용
+- 다른 라이브러리에서는 자체 저장 방법이 있는데 아무튼 그것도 직렬화
+- 저장할 때
+	- wb : write binary
+```python
+mydata = { 'r' : r, 'df' : df, 'df2': df2}
+
+import pickle
+with opne("./tmp.pkl", 'wb') as f:
+	pickle.dump(mydata, f)
+```
+- 불러올 때
+```python
+with open("./tmp.pkl", 'wb') as f:
+	pickle.load(mydata, f)
+```
+
+
+## with 구문
+- 큰 용량의 파일을 읽을 때
+- 컨텍스트 매니저가 들어있어서, close 하지 않아도 된다
+- 큰 용량의 파일을 읽을 수 있다. 메모리 용량보다 더 큰
+- lazy evaluation
+- spark와 마찬가지로
+- 큰 파일을 조금씩 읽어서 처리한다.
+	- 돈가스를 먹는 부분만 자르면서 먹는다.
+
+## for 문 테스트
+- for 문 내용에 break를 적으면
+- 첫번째 이터레이션 시작한 상태에서, 변수에 저장된 상태에서 빠져나온다.
+- 이 상태로 테스트 가능
