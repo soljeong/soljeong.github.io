@@ -4,7 +4,7 @@ title: 템플릿 레포
 aliases: 
 published: true
 ---
-https://github.com/soljeong/soljeong.github.io/commit/c6f6bcf6590329be1ab0bbd67c02ae803683077d
+<https://github.com/soljeong/soljeong.github.io/commit/c6f6bcf6590329be1ab0bbd67c02ae803683077d>
 
 ## 블로그 빌드가 실패
 
