@@ -28,6 +28,7 @@ published: true
 ## 시도: github action
 
 - 그 전에도 시도했던 방법인데 계속 fail 떠서 방치하고 있었다.
+
 ```yaml
 on:
   push:
@@ -121,4 +122,3 @@ jobs:
 - **Commit and push changes to target repository**: 변경사항을 타겟 레포지토리에 커밋하고 푸시합니다. 이 단계에서는 타겟 레포지토리 디렉토리로 이동(`cd`)한 후, `_posts` 디렉토리의 변경사항을 스테이징(`git add`), 커밋(`git commit`), 그리고 푸시(`git push`)합니다.
 
 이 스크립트는 `_posts` 디렉토리의 변경사항이 원본 레포지토리의 `main` 브랜치에 푸시될 때마다 자동으로 실행되어, 해당 변경사항을 타겟 레포지토리의 `_posts` 디렉토리에 반영합니다.
-
