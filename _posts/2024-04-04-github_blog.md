@@ -90,7 +90,7 @@ jobs:
     - name: Setup Git config
       run: |
         git config --global user.email "jeongsol@outlook.coom"
-        git config --global user.name "githubaction"
+w
     
     - name: Clone target repository
       run: |
